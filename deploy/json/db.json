@@ -1,0 +1,44 @@
+{
+  "course": [
+    {
+      "id": "1",
+      "name": "Gordon Ramsay",
+      "title": "The Food Blog",
+      "comments": "3 comments",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Indian-Food-wikicont.jpg/640px-Indian-Food-wikicont.jpg",
+      "body": "Welcome to Food blog, Get to know more about different types of food.Most food has its origin in plants.Some food is obtained directly from plants but even animals that are used as food sources are raised by feeding them food derived from plants. Cereal grain is a staple food that provides more food energy worldwide than any other type of crop. Corn (maize), wheat, and rice – in all of their varieties account for 87% of all grain production worldwide.Most of the grain that is produced worldwide is fed to livestock"
+    },
+    {
+      "id": "2",
+      "name": "Anonymous",
+      "title": "The Tech Blog",
+      "comments": "4 comments",
+      "img": "https://static.toiimg.com/thumb/msid-60515307,width-640,resizemode-4/60515307.jpg",
+      "body": "Welcome to Tech blog,Get to know more about different types of Techs around us.The simplest form of technology is the development and use of basic tools. The prehistoric discovery of how to control fire and the later Neolithic Revolution increased the available sources of food, and the invention of the wheel helped humans to travel in and control their environment. Developments in historic times, including the printing press, the telephone, and the Internet, have lessened physical barriers to communication and allowed humans to interact freely on a global scale."
+    },
+    {
+      "id": "3",
+      "name": "James",
+      "title": "The Car Blog",
+      "comments": "2 comments",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Black_BMW_i8.jpg/640px-Black_BMW_i8.jpg",
+      "body": "Welcome to Car blog,Get to know more about different types of cars around the world.Cars came into global use during the 20th century, and developed economies depend on them. The year 1886 is regarded as the birth year of the modern car when German inventor Karl Benz patented his Benz Patent-Motorwagen. Cars became widely available in the early 20th century. One of the first cars accessible to the masses was the 1908 Model T, an American car manufactured by the Ford Motor Company. Cars were rapidly adopted in the US, where they replaced animal-drawn carriages and carts, but took much longer to be accepted in Western Europe and other parts of the world"
+    },
+    {
+      "id": "4",
+      "name": "Masashi Kishimoto",
+      "title": "The Anime Blog",
+      "comments": "1 comments",
+      "img": "https://live.staticflickr.com/69/210814072_f1e3c39115_z.jpg",
+      "body": "Welcome to Anime blog,Get to know more about Animes around the world.The word anime is the Japanese term for animation, which means all forms of animated media.Outside Japan, anime refers specifically to animation from Japan or as a Japanese-disseminated animation style often characterized by colorful graphics, vibrant characters and fantastical themes.The culturally abstract approach to the word's meaning may open up the possibility of anime produced in countries other than Japan.For simplicity, many Westerners strictly view anime as a Japanese animation product."
+    },
+    {
+      "id": "6",
+      "name": "Harvey Dent",
+      "title": "The Bike Blog",
+      "comments": "0 comments",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Honda_CBR250R_2011.jpg/640px-Honda_CBR250R_2011.jpg",
+      "body": "Welcome to Bike blog, Get to know more about bikes and different types of bikes around the world.A motorcycle, often called a bike, motorbike, or cycle, is a two- or three-wheeled motor vehicle. Motorcycle design varies greatly to suit a range of different purposes: long distance travel, commuting, cruising, sport including racing, and off-road riding.Motorcycling is riding a motorcycle and related social activity such as joining a motorcycle club and attending motorcycle rallies."
+    }
+  ]
+}
